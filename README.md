@@ -5,9 +5,10 @@ I am interested in utilize my analytical and problem-solving skills by designing
 #### 👨‍💻  I’m currently working on
 
 - Blockchain architecture and security practices (Ethereum and Hyperledger).
+- Full stack development (TypeScript, JavaScript, NodeJS, React, MongoDB, Express and).
 - Smart contracts (Solidity, Web3.js, Ethers.js).
 - Design patterns for blockchain (CEI, Secure Ether Transfer, Oracle, Proxy, among others).
-- Full stack development (TypeScript, JavaScript, NodeJS, React, MongoDB, Express and).
+
 
 <!--
 **AleRapchan/AleRapchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
