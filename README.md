@@ -2,14 +2,14 @@
 
 I’m Alexandre, a brazilian guy living in Toronto CA. I'm interested in utilize my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
 
-#### 👨‍👨🏻‍💻  I’m currently working on
+#### 👨🏻‍💻  I’m currently working on
 
 - Blockchain architecture and security practices (Ethereum and Hyperledger).
 - Smart contracts (Solidity, Web3.js, Ethers.js).
 - Full stack development (TypeScript, JavaScript, NodeJS, React, MongoDB, Express and etc).
 - Design patterns for blockchain (CEI, Secure Ether Transfer, Oracle, Proxy, among others).
 
-### Things a code with:
+### 🛠 Things a code with:
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"><img alt="React" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/110c5bcf93c6198cad7e9b9387a32f4bde312d55f7e081a33e9e727b68abc770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465"><img alt="Webpack" src="https://camo.githubusercontent.com/110c5bcf93c6198cad7e9b9387a32f4bde312d55f7e081a33e9e727b68abc770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&amp;logo=webpack&amp;logoColor=white" style="max-width:100%;"></a> 
@@ -38,7 +38,7 @@ I’m Alexandre, a brazilian guy living in Toronto CA. I'm interested in utilize
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img alt="Nodejs" src="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
 
-### Where to find me
+### 🤝🏻 Where to find me
 <p><a href="https://github.com/AleRapchan"><img alt="Github" src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a> <a href="https://twitter.com/rapchan" rel="nofollow"><img alt="Twitter" src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/alexandre-rapchan/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> 
   
 <!--  
