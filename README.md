@@ -5,8 +5,8 @@ I’m Alexandre, a brazilian guy living in Toronto CA. I'm interested in utilize
 #### 👨🏻‍💻  I’m currently working on
 
 - Blockchain architecture and security practices (Ethereum and Hyperledger).
-- Smart contracts (Solidity, Web3.js, Ethers.js).
-- Full stack development (TypeScript, JavaScript, NodeJS, React, MongoDB, Express and etc).
+- Smart Contracts (Solidity, Web3.js, Ethers.js).
+- Full Stack Development (TypeScript, JavaScript, NodeJS, React, MongoDB, Express and etc).
 - Design patterns for blockchain (CEI, Secure Ether Transfer, Oracle, Proxy, among others).
 
 ### 🛠 Things a code with:
