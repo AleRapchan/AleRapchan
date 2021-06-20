@@ -6,7 +6,7 @@ I am interested in utilize my analytical and problem-solving skills by designing
 
 - Blockchain architecture and security practices (Ethereum and Hyperledger).
 - Smart contracts (Solidity, Web3.js, Ethers.js).
-- Full stack development (TypeScript, JavaScript, NodeJS, React, MongoDB, Express and).
+- Full stack development (TypeScript, JavaScript, NodeJS, React, MongoDB, Express and etc).
 - Design patterns for blockchain (CEI, Secure Ether Transfer, Oracle, Proxy, among others).
 
 
