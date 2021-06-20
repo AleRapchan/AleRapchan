@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Alexandre, a brazilian guy living in Toronto CA. I'm interested in utilize my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
+I’m Alexandre Rapchan, a brazilian guy living in Toronto CA. I'm interested in utilize my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
 
 #### 👨🏻‍💻  I’m currently working on
 
