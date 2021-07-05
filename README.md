@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Alexandre Rapchan, a brazilian developer living in Toronto CA who loves tech and innovation. I'm interested in utilize my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
+I’m Alexandre Rapchan, a Brazilian developer living in Toronto CA who loves tech and innovation. I'm interested in utilizing my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
 
 #### 👨🏻‍💻  I’m currently working on
 
